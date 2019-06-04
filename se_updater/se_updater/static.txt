@@ -1,0 +1,9 @@
+Preferences\SELicense.dat
+Preferences\options.xml
+Preferences\LinkMgnmt.txt
+Preferences\Custom.xml
+Preferences\Holes\ANSI Inch.xlsx
+Preferences\Holes\ANSI Metric.xlsx
+Preferences\Materials\Materials-GOST.mtl
+Preferences\Materials\Materials-DIN.mtl
+Preferences\Materials\Materials.mtl

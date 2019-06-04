@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SEInstallPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\Siemens\Solid Edge 2019</Value>
+    </Setting>
+    <Setting Name="SPPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">O:\Apps\SolidEdge\SE2019\Update\64</Value>
+    </Setting>
+    <Setting Name="UpdatesPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">O:\Apps\SolidEdge\SE2019\Custom\ProgramFiles</Value>
+    </Setting>
+    <Setting Name="LogFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">seupdater.log</Value>
+    </Setting>
+    <Setting Name="SPVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6</Value>
+    </Setting>
+    <Setting Name="SEVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">219</Value>
+    </Setting>
+    <Setting Name="OptionRegKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">HKEY_CURRENT_USER\Software\Siemens\Solid Edge\Version 219\Global</Value>
+    </Setting>
+    <Setting Name="OptionXML" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">O:\Apps\SolidEdge\SE2019\Options.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
